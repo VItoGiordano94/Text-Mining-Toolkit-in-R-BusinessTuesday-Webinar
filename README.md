@@ -1,7 +1,4 @@
-# VItoGiordano94
-Text Mining Toolkit in R: #BusinessTuesday Webinar
-
-------- TEXT MINING TOOLKIT IN R --------
+# Text Mining Toolkit in R: #BusinessTuesday Webinar
 
 The following project contains the docuemtns and the R programming code used for the "BusinessTuesday" Webinar. The Webinar cycle is organized by the professors of economic-managerial engineering Andrea Bonaccorsi and Antonella Martini of DESTEC and by Professor Gualtiero Fantoni, who teaches Product Design and Development, of DICI, together with Eng. Paola Belingheri (RTD-A), to the research fellow Ing. Filippo Chiarello and to PhD students of smart industry and DESTEC.
 
