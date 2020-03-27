@@ -12,10 +12,6 @@ The course materials are:
 - R for Data Science: https://r4ds.had.co.nz/
 - Text Mining with R: https://www.tidytextmining.com/
 
-For online course on Text Mining, String Manipulation and Tidyverse, you can use DataCamp:
-- https://learn.datacamp.com/courses/introduction-to-the-tidyverse
-- https://learn.datacamp.com/courses/string-manipulation-with-stringr-in-r
-
 For each question, you can contact Vito Giordano:
 - Mobile Phone: + 39 346 729 5580
 - email: vito.giordano@phd.unipi.it (or giordano.vito@gmail.com)
