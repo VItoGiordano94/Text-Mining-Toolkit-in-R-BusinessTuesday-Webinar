@@ -217,6 +217,13 @@ udpipe_download_model(language = "english")
 
 model <- udpipe_load_model("Data/english-ud-2.0-170801.udpipe")
 
+# Select 2018 and 2019 year
+
+sm_scopus <- sm_scopus %>% 
+  filter(year %in% c("2018", "2019"))
+
+# FOR THIS PART THE CODE IS VERY SLOW (ABOUT 1 HOUR OF WAITING)
+
 # Part-of-Speech tagging and Dependency Parsing
 
 sm_scopus_udpipe <- udpipe_annotate(object = model, 
